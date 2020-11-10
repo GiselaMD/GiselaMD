@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-- 🔭 I’m currently working as a Front-end developer at [@isobar](https://www.isobar.com/br/en/) in a project with [@degdigital](https://www.degdigital.com/)
+- 🔭 I’m currently working as a Front-end developer at [@isobar](https://www.isobar.com/br/en/) brazil
 - 👩‍💻 Computer Science Student
 - 🌱 I’m currently learning Gatsby and Nextjs
 - 💬 Ask me about Javascript, React, GraphQL, and Music. I also to surf 🏄‍♀️ and play guitar 🎸
