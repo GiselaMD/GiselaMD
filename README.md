@@ -1,8 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <br /> 
 
-- 🔭 I’m currently working as a Front End Developer at [@DWS Brazil](https://www.dentsu.com/br/en#top)
-- 👩‍💻 Computer Science Student
+- 🔭 I’m currently working as a Front End Developer at [@Dentsu](https://www.dentsu.com)
+- 👩‍💻 Bachelor's in Computer Science
 - 🌱 Always trying to keep up to date with new technologies
 - 💬 Ask me about Javascript, React, GraphQL, and Music. I also like to surf 🏄‍♀️ and play guitar 🎸
 
