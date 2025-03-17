@@ -3,8 +3,9 @@
 
 - 🔭 I’m currently working as a Front End Developer at [@Dentsu](https://www.dentsu.com)
 - 👩‍💻 Bachelor's in Computer Science
+- From Brasil 🇧🇷, living in Chicago 🇺🇸
 - 🌱 Always trying to keep up to date with new technologies
-- 💬 Ask me about Javascript, React, GraphQL, and Music. I also like to surf 🏄‍♀️ and play guitar 🎸
+- 💬 Ask me about Javascript, React, Human Pose Estimation, Fitness, and Music. I also like to surf 🏄‍♀️, workout 🏋🏻‍♀️, and play guitar 🎸
 
 ### Find me around the web 🌎:
 - <a href="https://www.linkedin.com/in/giselamd/">LinkedIn</a> and <a href="https://dev.to/giselamd">Dev.to</a>.
